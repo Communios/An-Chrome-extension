@@ -1,1 +1,4 @@
-
+Update 2.0
+- To Alpha
+- Add a Delete All button, double click to clear all the leads
+- Fix some error
